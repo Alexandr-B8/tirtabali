@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tirtabali.com/sitemap.xml
+Sitemap: https://tirtabalitours.com/sitemap.xml
