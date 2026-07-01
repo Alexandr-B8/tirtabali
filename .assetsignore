@@ -1,0 +1,5 @@
+# Tell Cloudflare NOT to upload these as website assets
+.git
+.git/**
+node_modules
+*.log
